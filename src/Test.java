@@ -21,4 +21,21 @@ class Test
             System.out.println("Sum: Failed, expected = " + expected + ", result = " + result);
         }
     }
+	
+	private static void testSum()
+    {
+        int a = 10;
+        int b = 2;
+        int expected = 5;
+        BasicMath bm = new BasicMath();
+        int result = bm.div(a, b);
+        if (result == expected)
+        {
+            System.out.println("Div: OK");
+        }
+        else
+        {
+            System.out.println("Div: Failed, expected = " + expected + ", result = " + result);
+        }
+    }
 }
