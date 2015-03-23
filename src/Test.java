@@ -56,7 +56,7 @@ class Test
 		}
 	}
 	
-	private static void testSum()
+	private static void testDiv()
     {
         int a = 10;
         int b = 2;
@@ -73,7 +73,7 @@ class Test
 		}
 	}
 	
-	private static void testSum()
+	private static void testPow()
     {
         int a = 5;
         int b = 6;
