@@ -11,3 +11,7 @@ added mul
 ****
 added div
 ****
+
+****
+added pow
+****
