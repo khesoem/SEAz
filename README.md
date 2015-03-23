@@ -7,3 +7,7 @@ sub added
 ****
 added mul
 ****
+
+****
+added div
+****
